@@ -10,6 +10,8 @@ These skills give Claude Code (or any compatible AI agent supporting the [Agent 
 |-------|---------|--------|
 | [`dify-social-content`](skills/dify-social-content/SKILL.md) | LinkedIn + X (Twitter) social posts | Conversational, multilingual posts with proper LangGenius K.K. brand exposure |
 | [`dify-press-release`](skills/dify-press-release/SKILL.md) | Full press releases (PR Times-ready) | Four scenarios: product release, event pre-announcement, event recap, partnership/customer announcement |
+| [`dify-article-review`](skills/dify-article-review/SKILL.md) | Agency-written Japanese article QA | Structured review report (issue list + inline annotations + optional Notion comments) |
+| [`dify-brand`](skills/dify-brand/SKILL.md) | Brand-asset design framework (public template) | Structural template for HTML poster/social/slide generation — replace `[BRAND_*]` placeholders with your brand specifics |
 
 ## What's in each Skill
 
